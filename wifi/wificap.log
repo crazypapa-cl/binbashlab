@@ -1,0 +1,52 @@
+Error: EACCES: permission denied, open '/home/rayandolapapa/Documents/binbash/wifi/wifi_networks.csv'
+Error: stdout maxBuffer length exceeded
+Error: EACCES: permission denied, open '/home/rayandolapapa/Documents/binbash/wifi/wifi_networks.csv'
+Error: stdout maxBuffer length exceeded
+Error: EACCES: permission denied, open '/home/rayandolapapa/Documents/binbash/wifi/wifi_networks.csv'
+Error: stdout maxBuffer length exceeded
+Error: EACCES: permission denied, open '/home/rayandolapapa/Documents/binbash/wifi/wifi_networks.csv'
+Error: stdout maxBuffer length exceeded
+Error: EACCES: permission denied, open '/home/rayandolapapa/Documents/binbash/wifi/wifi_networks.csv'
+Error: stdout maxBuffer length exceeded
+Error: ENOENT: no such file or directory, open '/home/rayandolapapa/Documents/binbash/wifi/wifi_networks.csv'
+Error: stdout maxBuffer length exceeded
+Error: EACCES: permission denied, open '/home/rayandolapapa/Documents/binbash/wifi/wifi_networks.csv'
+Error: stdout maxBuffer length exceeded
+Error: EACCES: permission denied, open '/home/rayandolapapa/Documents/binbash/wifi/wifi_networks.csv'
+Error: stdout maxBuffer length exceeded
+Error: EACCES: permission denied, open '/home/rayandolapapa/Documents/binbash/wifi/wifi_networks.csv'
+Error: stdout maxBuffer length exceeded
+Error: EACCES: permission denied, open '/home/rayandolapapa/Documents/binbash/wifi/wifi_networks.csv'
+Error: stdout maxBuffer length exceeded
+Error: EPERM: operation not permitted, unlink '/tmp/airodump_output-01.csv'
+Error: stdout maxBuffer length exceeded
+Error: EPERM: operation not permitted, unlink '/tmp/airodump_output-01.csv'
+Error: stdout maxBuffer length exceeded
+Error: EPERM: operation not permitted, unlink '/tmp/airodump_output-01.csv'
+Error: Command failed: sudo airodump-ng --output-format csv --write /tmp/airodump_output wlxe84e0606d725
+
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: stdout maxBuffer length exceeded
+Error: Command failed: sudo airodump-ng --output-format csv --write /tmp/airodump_output wlxe84e0606d725
+

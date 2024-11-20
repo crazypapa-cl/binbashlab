@@ -1,0 +1,11 @@
+[Unit]
+Description=Set WiFi Interface to Monitor Mode
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/set_monitor_mode.sh
+Type=oneshot
+RemainAfterExit=true
+
+[Install]
+WantedBy=multi-user.target

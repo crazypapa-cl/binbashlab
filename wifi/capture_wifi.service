@@ -1,0 +1,15 @@
+[Unit]
+Description=Capture WiFi networks with airodump-ng
+After=network.target
+
+[Service]
+ExecStart= /home/rayandolapapa/Documents/binbashlab/wifi/wificap.sh
+WorkingDirectory= /home/rayandolapapa/Documents/binbashlab/wifi/
+StandardOutput=append: /home/rayandolapapa/Documents/binbashlab/wifi/wifi_capture.log
+StandardError=append: /home/rayandolapapa/Documents/binbashlab/wifi/wifi_error.log
+Restart=always
+User=root
+Environment="PATH=/usr/sbin:/usr/bin:/sbin:/bin"
+
+[Install]
+WantedBy=multi-user.target
